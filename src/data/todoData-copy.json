@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "text": "Build Client",
+    "isComplete": false
+  },
+  {
+    "id": "2",
+    "text": "Test Client",
+    "isComplete": false
+  },
+  {
+    "id": "3",
+    "text": "Build Server",
+    "isComplete": false
+  },
+  {
+    "id": "4",
+    "text": "Test Server",
+    "isComplete": false
+  },
+  {
+    "id": "5",
+    "text": "Upload to GitHub",
+    "isComplete": false
+  }
+]

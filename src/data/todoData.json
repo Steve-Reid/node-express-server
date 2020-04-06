@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "Build Client",
+    "isComplete": false
+  },
+  {
+    "id": "2",
+    "text": "Test Client",
+    "isComplete": false
+  },
+  {
+    "id": "3",
+    "text": "Build Server",
+    "isComplete": false
+  },
+  {
+    "id": "4",
+    "text": "Test Server",
+    "isComplete": false
+  },
+  {
+    "id": "5",
+    "text": "Upload to GitHub",
+    "isComplete": false
+  },
+  {
+    "id": "d7135ffb-265b-4588-a3e2-d5cef1d147a4",
+    "text": "Add styles",
+    "isComplete": true
+  },
+  {
+    "id": "ac98acfa-f272-4ebb-96ac-a1df2c83f5ec",
+    "text": "new todo",
+    "isComplete": false
+  }
+]
